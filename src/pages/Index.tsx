@@ -344,7 +344,7 @@ export default function Index() {
                 <p className="text-muted-foreground">Номеров</p>
               </div>
               <div className="text-center">
-                <p className="text-4xl font-heading font-bold text-primary mb-2">15+</p>
+                <p className="text-4xl font-heading font-bold text-primary mb-2">4</p>
                 <p className="text-muted-foreground">Лет опыта</p>
               </div>
               <div className="text-center">
