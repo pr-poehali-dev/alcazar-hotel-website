@@ -340,7 +340,7 @@ export default function Index() {
             </p>
             <div className="grid md:grid-cols-3 gap-8 mt-12">
               <div className="text-center">
-                <p className="text-4xl font-heading font-bold text-primary mb-2">50+</p>
+                <p className="text-4xl font-heading font-bold text-primary mb-2">19</p>
                 <p className="text-muted-foreground">Номеров</p>
               </div>
               <div className="text-center">
