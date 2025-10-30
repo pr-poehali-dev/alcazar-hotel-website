@@ -165,7 +165,7 @@ export default function Index() {
         <div className="container mx-auto px-4 relative z-10 text-white animate-fade-in">
           <div className="max-w-3xl">
             <h2 className="text-6xl font-heading font-bold mb-6">Отель Алькасар</h2>
-            <p className="text-2xl mb-8 text-white/90">Роскошный отдых в современном замке с башней</p>
+            <p className="text-2xl mb-8 text-white/90">Уютный отдых в замке с башней</p>
             <div className="flex gap-4">
               <Button size="lg" onClick={() => scrollToSection('rooms')} className="bg-white text-primary hover:bg-white/90">
                 Посмотреть номера
