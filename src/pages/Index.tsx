@@ -157,7 +157,7 @@ export default function Index() {
         <div 
           className="absolute inset-0 z-0"
           style={{
-            backgroundImage: `linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://cdn.poehali.dev/projects/898d395e-c72c-48fa-bb3e-04d3650415ab/files/2bb926eb-92ee-473c-8649-c3326a98f9a6.jpg')`,
+            backgroundImage: `linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://cdn.poehali.dev/files/8607bf02-8b88-4c84-a740-90b9dee4aef1.jpg')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center'
           }}
